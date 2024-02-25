@@ -35,5 +35,10 @@ namespace DoAnWin
             SignUpForm form2 = new SignUpForm();
             form2.ShowDialog();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
