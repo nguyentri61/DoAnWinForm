@@ -93,6 +93,16 @@ namespace DoAnWin.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_freelance_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-freelance-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_show_password_32 {
             get {
                 object obj = ResourceManager.GetObject("icons8-show-password-32", resourceCulture);
@@ -116,6 +126,16 @@ namespace DoAnWin.Properties {
         internal static System.Drawing.Bitmap icons8_user_30 {
             get {
                 object obj = ResourceManager.GetObject("icons8-user-30", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pablita_freelance_worker_working_from_home {
+            get {
+                object obj = ResourceManager.GetObject("pablita-freelance-worker-working-from-home", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

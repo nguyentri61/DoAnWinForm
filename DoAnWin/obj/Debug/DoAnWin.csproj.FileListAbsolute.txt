@@ -9,3 +9,16 @@ D:\WinForm\DoAnWin\DoAnWin\obj\Debug\DoAnWin.exe
 D:\WinForm\DoAnWin\DoAnWin\obj\Debug\DoAnWin.pdb
 D:\WinForm\DoAnWin\DoAnWin\obj\Debug\DoAnWin.LoginForm.resources
 D:\WinForm\DoAnWin\DoAnWin\obj\Debug\DoAnWin.SignUpForm.resources
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\bin\Debug\DoAnWin.exe.config
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\bin\Debug\DoAnWin.exe
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\bin\Debug\DoAnWin.pdb
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.csproj.AssemblyReference.cache
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.LoginForm.resources
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.Properties.Resources.resources
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.SignUpForm.resources
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.csproj.GenerateResource.cache
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.exe
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.pdb
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.HomeForm.resources
+C:\Users\DELL 3500\Desktop\Winform\WinformDoAn\DoAnWin\obj\Debug\DoAnWin.RoleForm.resources
